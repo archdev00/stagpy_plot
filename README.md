@@ -11,4 +11,4 @@ Now activate the environment (Linux):\
 Install StagPy:\
 `pip install stagpy`
 
-Now you can use the Jupyter notebook using the virtual environment as the ipykernel.
+Now you can use the Jupyter notebook using the virtual environment as the Jupyter Kernel.
